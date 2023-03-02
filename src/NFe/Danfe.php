@@ -59,7 +59,7 @@ class Danfe extends DaCommon
      *
      * @var boolean
      */
-    public $descProdInfoComplemento = false;
+    public $descProdInfoComplemento = true;
     /**
      *`Parâmetro que habilita a geração de automatica de informações
      *
