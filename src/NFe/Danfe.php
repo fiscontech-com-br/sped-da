@@ -65,7 +65,7 @@ class Danfe extends DaCommon
      *
      * @var boolean
      */
-    public $gerarInformacoesAutomaticas = false;
+    public $gerarInformacoesAutomaticas = true;
     /**
      * Parâmetro do controle se deve concatenar automaticamente informações sobre rastro e medicamento
      * na descrição do produto, como por exemplo, lote, validade, fabricacao, codigo ANVISA
